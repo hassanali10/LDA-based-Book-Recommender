@@ -1,0 +1,17 @@
+-> Deadline: 30.09.2021 23:59 CEST
+-> submit your report as PDF via email to rieger@statistik.tu-dortmund.de
+-> Language: German or English
+-> 23-27 pages (from introduction to end of last section - without bibliography, appendix)
+-> use (AND describe it in the methods section) at least one of the methods related to "frequent itemset mining" or "latent Dirichlet allocation"
+-> describe all used methods
+-> describe your preprocessing steps
+-> describe pros and cons of your methods on the given data (e.g. missing data)
+-> discuss your recommendations of at least three and up to five of the given itemIDs in the main part of your report
+-> report the recommendations of the remaining itemIDs (e.g. as table) in the appendix
+-> discuss the characteristics of the task
+-> discuss the characteristics of the data
+-> do not discuss the concrete evaluation setup from prudsys!
+-> do not write an experience report (maybe try to assume that the task was not given to you from external, but that you gave it to yourself)
+-> of course you are allowd to model a different recommendation system than the one that was submitted - but it has to match the system that is described in the methods and applications sections!
+-> it may be meaningful to compare your final model with naive recommenders (same author, ...)
+-> make use of naive evaluation measures to compare recommendation systems
